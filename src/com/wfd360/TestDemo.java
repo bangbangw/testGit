@@ -6,5 +6,6 @@ package com.wfd360;
 public class TestDemo {
       public void method(){
           System.out.println("----master------------");
+          System.out.println("----v1.0------------");
         }
 }
