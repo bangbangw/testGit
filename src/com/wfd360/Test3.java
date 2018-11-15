@@ -5,6 +5,6 @@ package com.wfd360;
  */
 public class Test3 {
       public void method(){
-          System.out.println("-----Test3--------");
+          System.out.println("-----Test3---cfgncfhncffhnjcgfhh-----");
         }
 }
