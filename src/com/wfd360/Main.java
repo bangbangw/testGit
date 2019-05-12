@@ -10,6 +10,7 @@ public class Main {
         System.out.println("-----中间来了和小插曲--现在接着开发------------");
 
         System.out.println("-----54号问题已经解决-----------");
+        System.out.println("-----冲突解决测试-----------");
     }
 
 }
